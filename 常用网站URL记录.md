@@ -19,6 +19,9 @@
 6. [知道创宇-钟馗之眼](https://www.zoomeye.org/)
 7. [virustotal-在线病毒扫描](https://www.virustotal.com/#/home/upload)
 8. [开源沙箱Cuckoo](https://cuckoosandbox.org/)
+9. [docker-dvwa漏洞平台](https://hub.docker.com/r/citizenstig/dvwa/)
+10. [sql注入检测库Libinjection](https://www.slideshare.net/codeblue_jp/nick-galbreath-enpub)
+11. [网络数据包分析 NetWorkTotal](https://www.networktotal.com/search.html)
 
 # Ebook
 1. [图灵程序设计丛书](http://bestcbooks.com/B00H706BIG/)
@@ -26,6 +29,9 @@
 3. [python-request中文介绍](http://docs.python-requests.org/zh_CN/latest/user/quickstart.html)
 4. [python-bs4中文介绍](https://beautifulsoup.readthedocs.io/zh_CN/latest/)
 5. [kali-大学霸教程](https://wizardforcel.gitbooks.io/daxueba-kali-linux-tutorial/content/51.html)
+6. [Go语言圣经](https://www.gitbook.com/book/yar999/gopl-zh)
+7. [python简明教程](https://www.ctolib.com/docs//sfile/a-byte-of-python/index.html)
+
 
 # Tools
 1. [在线画图工具process-on](https://www.processon.com/)
