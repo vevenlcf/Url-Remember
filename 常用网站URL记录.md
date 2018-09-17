@@ -22,6 +22,7 @@
 9. [docker-dvwa漏洞平台](https://hub.docker.com/r/citizenstig/dvwa/)
 10. [sql注入检测库Libinjection](https://www.slideshare.net/codeblue_jp/nick-galbreath-enpub)
 11. [网络数据包分析 NetWorkTotal](https://www.networktotal.com/search.html)
+12. [恶意软件分析服务hybrid](https://www.hybrid-analysis.com/)
 
 # Ebook
 1. [图灵程序设计丛书](http://bestcbooks.com/B00H706BIG/)
