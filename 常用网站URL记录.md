@@ -6,9 +6,9 @@
 5. [FreeBuf互联网安全](http://www.freebuf.com/)
 6. [安全脉搏](https://www.secpulse.com/)
 7. [安全牛](https://www.aqniu.com/)
-8. [看雪论坛](https://bbs.pediy.com/)
 9. [安全客](https://www.anquanke.com/)
-9. [web开发-个人博客](https://imququ.com/post/archives.html)
+10. [web开发-个人博客](https://imququ.com/post/archives.html)
+11. [龙哥盟](http://flygon.net/)
 
 # Apt
 1. [在线沙箱AnyRun](https://app.any.run/)
@@ -25,6 +25,8 @@
 12. [恶意软件分析服务hybrid](https://www.hybrid-analysis.com/)
 
 # Ebook
+0. [计算机电子书集合](https://github.com/vevenlcf/it-ebooks-archive)
+   [计算机电子书集合](https://github.com/it-ebooks/it-ebooks-archive)
 1. [图灵程序设计丛书](http://bestcbooks.com/B00H706BIG/)
 2. [gitbook在线计算机丛书](https://legacy.gitbook.com/@wizardforcel)
 3. [python-request中文介绍](http://docs.python-requests.org/zh_CN/latest/user/quickstart.html)
@@ -32,12 +34,19 @@
 5. [kali-大学霸教程](https://wizardforcel.gitbooks.io/daxueba-kali-linux-tutorial/content/51.html)
 6. [Go语言圣经](https://www.gitbook.com/book/yar999/gopl-zh)
 7. [python简明教程](https://www.ctolib.com/docs//sfile/a-byte-of-python/index.html)
-
+8. [python编程进阶](http://www.lining0806.com:89/python/advancedpython.html#)
+   [python编程进阶ppt](http://www.lining0806.com:88/#1)
+9. [docker入门精华版](Docker入门之精华版)
+10.[ctf领域指南](https://wizardforcel.gitbooks.io/ctf-field-guide/content/)
+11. [django 中文指南](https://www.kancloud.cn/thinkphp/django-book/39581)
 
 # Tools
+0. [软件工程专属工具](软件工程 – 专业所需工具)
 1. [在线画图工具process-on](https://www.processon.com/)
 2. [在线数据包下载packetlife](http://packetlife.net/captures/protocol/telnet/)
 3. [可搜索数据包下载pcapr](http://www.pcapr.net/browse?q=telnet)
+4. [StackEdit](https://stackedit.io/app#) - Markdown在线编辑器，支持各种扩展语法
+5. [百度脑图](http://naotu.baidu.com/)
 
 # Vps
 1. [vultr中文版](https://www.vultrgo.com/?f=gad&gclid=EAIaIQobChMIwLvxoYjB3QIVnAcqCh1wxQVtEAAYAiAAEgKfjPD_BwE)
@@ -48,6 +57,20 @@
 2. [阿里开发者平台](https://developer.aliyun.com/)
 3. [科大讯飞开放平台](https://www.xfyun.cn/?ch=bdpp)
 4. [腾讯开放平台](https://open.tencent.com/)
+
+# 社区
+[CSDN](http://www.csdn.net)
+[51CTO](http://www.51cto.com)
+[V2EX](https://v2ex.com)
+[OSChina](http://www.oschina.net/)
+[云栖](https://yq.aliyun.com)
+[云加](https://cloud.tencent.com/developer)
+[Reddit](https://reddit.com/)
+[吾爱破解](http://www.52pojie.cn/)
+[看雪](http://www.pediy.com/)
+[学破解](http://www.xuepojie.com/)
+[逆向未来](http://www.pd521.com/)
+[先知社区](https://xz.aliyun.com)
 
 # Some Company
 1. [威胁猎人](https://www.threathunter.cn/)
@@ -62,3 +85,4 @@
 10. [山石网科](https://www.hillstonenet.com.cn/)
 11. [天融信](http://www.topsec.com.cn/)
 12. [赛宁网安](http://www.cyberpeace.cn/)
+
