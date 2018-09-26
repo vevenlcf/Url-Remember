@@ -39,6 +39,7 @@
 9. [docker入门精华版](Docker入门之精华版)
 10.[ctf领域指南](https://wizardforcel.gitbooks.io/ctf-field-guide/content/)
 11. [django 中文指南](https://www.kancloud.cn/thinkphp/django-book/39581)
+12. [看云](https://www.kancloud.cn)-免费电子书下载、在线阅读等
 
 # Tools
 0. [软件工程专属工具](软件工程 – 专业所需工具)
